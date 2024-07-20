@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T08:18:05.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bmi8iAaUTuv5QLhlW5t_" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T10:27:25.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2wxPcLe4hyIsI0TWkRYG" version="24.7.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2903" dy="940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3404" dy="1128" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1flL4R2s85vkYmcaQ0f1-48" value="CE_CINEMAS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="514" y="251.5" width="305" height="300" as="geometry" />
+          <mxGeometry x="506" y="255" width="305" height="300" as="geometry" />
         </mxCell>
         <mxCell id="1flL4R2s85vkYmcaQ0f1-49" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="1flL4R2s85vkYmcaQ0f1-48" vertex="1">
           <mxGeometry y="30" width="305" height="30" as="geometry" />
@@ -425,7 +425,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1flL4R2s85vkYmcaQ0f1-211" value="CE_SCREENS" style="shape=table;startSize=31;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="880" y="613" width="347" height="301" as="geometry" />
+          <mxGeometry x="873" y="612" width="347" height="301" as="geometry" />
         </mxCell>
         <mxCell id="1flL4R2s85vkYmcaQ0f1-212" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="1flL4R2s85vkYmcaQ0f1-211" vertex="1">
           <mxGeometry y="31" width="347" height="30" as="geometry" />
@@ -1286,7 +1286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1flL4R2s85vkYmcaQ0f1-396" value="CE_CUSTOMERS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="514" y="944" width="321" height="391" as="geometry" />
+          <mxGeometry x="506" y="944" width="321" height="391" as="geometry" />
         </mxCell>
         <mxCell id="1flL4R2s85vkYmcaQ0f1-397" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="1flL4R2s85vkYmcaQ0f1-396" vertex="1">
           <mxGeometry y="30" width="321" height="30" as="geometry" />
@@ -2192,7 +2192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fiXDzRy6jmmAx_RrAWcY-33" value="CE_SHOWTIMES" style="shape=table;startSize=31;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="510" y="581" width="306" height="271" as="geometry" />
+          <mxGeometry x="506" y="581" width="306" height="271" as="geometry" />
         </mxCell>
         <mxCell id="fiXDzRy6jmmAx_RrAWcY-34" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="fiXDzRy6jmmAx_RrAWcY-33" vertex="1">
           <mxGeometry y="31" width="306" height="30" as="geometry" />
